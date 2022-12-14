@@ -1,0 +1,121 @@
+NO,TEMPAT LAHIR,TANGGAL LAHIR,UMUR,GOLONGAN DARAH,JENIS KELAMIN,HB,BB (kg),TENSI,STATUS
+1,Lamongan,4/23/1970,52,AB,L,15,77,130/80,Layak
+2,Malang,6/24/1965,57,AB,L,13,68,130/80,Layak
+3,Lamongan,10/19/1983,39,O,L,12.1,70,130/80,Layak
+4,Sidikalang,5/10/1970,52,O,P,12.2,65,150/80,Layak
+5,Mojokerto,5/15/1965,57,B,L,13.8,80,140/80,Layak
+6,Bangkalan,10/18/1971,51,AB,P,14,56,120/80,Layak
+7,Madiun,3/26/1968,54,O,L,14.8,74,130/80,Layak
+8,Madiun,11/28/1970,52,O,L,13.1,71,140/80,Layak
+9,Surabaya,2/5/1974,48,O,P,14.3,60,140/80,Layak
+10,Ponorogo,1/15/1983,39,B,P,13.3,57,120/80,Layak
+11,Kulonprogo,1/13/1969,53,B,P,14.6,55,130/80,Layak
+12,Nganjuk,12/30/1972,49,B,P,14.6,53,140/80,Layak
+13,Jombang,2/22/1967,55,AB,L,14.1,60,120/80,Layak
+14,Nganjuk,4/14/1973,49,O,L,12.4,67,140/80,Layak
+15,Madiun,2/9/1972,50,O,L,15.9,69,130/80,Layak
+16,Tuban,3/17/1976,46,O,P,12.5,68,140/80,Layak
+17,Malang,5/20/1971,51,B,P,12.0,70,120/80,Layak
+18,Sumenep,3/4/1969,53,AB,P,13.0,66,110/80,Layak
+19,Sidoarjo,8/21/1987,35,O,L,12.3,80,150/80,Layak
+20,Bangkalan,2/28/1984,38,O,L,15.2,79,120/80,Layak
+21,Bangkalan,4/5/1980,42,B,P,13.3,75,140/80,Layak
+22,Malang,9/20/1980,42,B,P,13.7,65,120/80,Layak
+23,Kediri,8/17/1979,43,O,L,13.7,74,120/80,Layak
+24,Surabaya,4/15/1986,36,O,L,12.9,73,110/80,Layak
+25,Surabaya,10/27/1984,38,O,L,12.5,79,120/80,Layak
+26,Bojonegoro,6/1/1989,33,O,L,14.6,73,120/80,Layak
+27,Lamongan,3/13/1997,25,A,P,13,63,110/80,Layak
+28,Tuban,7/10/1972,50,O,L,17,73,130/80,Layak
+29,Bangkalan,2/25/1985,37,O,L,12.3,78,140/80,Layak
+30,Bangkalan,9/11/1974,48,O,L,12.6,68,130/80,Layak
+31,Bangkalan,6/9/1983,39,A,P,12.6,50,110/80,Layak
+32,Surabaya,2/14/1983,39,O,L,16,55,110/80,Layak
+33,Bangkalan,1/8/1977,45,AB,L,15.5,63,140/80,Layak
+34,Surabaya,5/30/1984,38,O,L,14.6,69,120/80,Layak
+35,Bangkalan,3/25/1985,37,B,P,13.9,74,120/80,Layak
+36,Surabaya,3/25/1984,38,AB,L,13,82,120/80,Layak
+37,Kediri,2/3/1973,49,B,L,12.6,78,120/80,Layak
+38,Lamongan,9/21/1994,28,O,L,13.6,65,120/80,Layak
+39,Surabaya,4/30/1965,57,O,L,13.1,60,160/80,Layak
+40,Bangkalan,8/25/1981,41,B,L,12.5,66,130/80,Layak
+41,Sumenep,5/8/1999,23,A,L,13.3,69,110/80,Layak
+42,Bangkalan,10/20/1985,37,O,L,11.5,75,120/80,Layak
+43,Mojokerto,4/8/1977,45,AB,L,14.7,59,140/80,Layak
+44,Bangkalan,4/28/1982,40,A,L,15.2,61,120/80,Layak
+45,Ngawi,11/9/1997,25,A,L,14.7,63,150/80,Layak
+46,Bangkalan,10/12/1971,51,O,L,12.4,60,160/80,Layak
+47,Surabaya,4/5/1984,38,O,L,14.4,87,110/80,Layak
+48,Sidoarjo,9/21/1984,38,B,L,12.6,56,120/80,Layak
+49,Surabaya,12/12/1988,33,A,L,15.4,67,110/80,Layak
+50,Tuban,2/23/1989,33,B,L,15,70,110/80,Layak
+51,Nganjuk,7/25/1969,53,O,L,15.9,62,140/80,Layak
+52,Bangkalan,3/7/1981,41,AB,L,13.9,64,140/80,Layak
+53,Surabaya,6/3/1985,37,A,L,16,63,120/80,Layak
+54,Lamongan,12/1/1997,25,O,L,12.4,62,120/80,Layak
+55,Pamekasan,8/9/1983,39,O,L,14.4,56,120/80,Layak
+56,Pamekasan,9/14/1982,40,O,L,14.6,60,130/80,Layak
+57,Pamekasan,12/1/1980,42,B,L,14.4,70,120/80,Layak
+58,Bangkalan,9/15/1982,40,O,L,15.1,75,120/80,Layak
+59,Bangkalan,2/27/1998,24,B,L,15.6,51,110/80,Layak
+60,Bangkalan,3/27/1985,37,B,L,16.2,52,120/80,Layak
+61,Surabaya,1/17/1986,36,A,L,15.4,56,120/80,Layak
+62,Sampang,5/13/1984,38,O,L,12.4,50,140/80,Layak
+63,Surabaya,11/21/1985,37,B,L,14,69,110/80,Layak
+64,Tuban,1/2/1976,46,O,P,11.7,65,120/80,Layak
+65,Banyuwangi,1/28/1972,50,B,L,14.4,47,150/80,Layak
+66,Surabaya,4/1/1970,52,O,L,12.3,60,130/80,Layak
+67,Bangkalan,5/5/1994,28,O,L,12,50,110/80,Layak
+68,Bangkalan,4/12/1979,43,O,L,13.2,60,110/80,Layak
+69,Pamekasan,1/17/1986,36,O,L,12.7,58,120/80,Layak
+70,Malang,12/21/1969,52,A,L,11.5,54,110/80,Layak
+71,Surabaya,3/14/1979,43,O,L,12,50,140/80,Layak
+72,Bangkalan,8/29/1992,30,O,L,14.4,55,120/80,Layak
+73,Bangkalan,8/25/1983,39,B,L,14.7,62,130/80,Layak
+74,Bangkalan,6/9/1984,38,O,L,12,49,120/80,Layak
+75,Bangkalan,6/16/1982,40,B,L,12.8,75,120/80,Layak
+76,Pamekasan,10/9/1996,26,O,L,12.6,71,120/80,Layak
+77,Bangkalan,1/1/1970,52,B,L,12,60,110/80,Layak
+78,Blitar,3/14/1985,37,O,L,13.6,51,130/80,Layak
+79,Bangkalan,6/10/1985,37,O,L,15.4,50,120/80,Layak
+80,Kediri,4/21/1971,51,B,L,12,59,130/80,Layak
+81,Lamongan,10/11/1997,25,B,L,15.1,81,120/80,Layak
+82,Masoki,8/13/1985,37,O,L,15.3,80,120/80,Layak
+83,Bangkalan,8/12/1985,37,A,L,12.6,62,140/80,Layak
+84,Surabaya,1/6/1995,27,B,L,14.5,54,130/80,Layak
+85,Bangkalan,12/10/1995,26,A,L,14.7,61,110/80,Layak
+86,Blitar,4/3/1997,25,O,L,13,56,120/80,Layak
+87,Manukwari,5/27/1980,42,AB,L,13.1,55,120/80,Layak
+88,Bangkalan,2/2/1972,50,O,L,12.6,50,130/80,Layak
+89,Sidoarjo,6/9/1974,48,O,L,13,65,120/80,Layak
+90,Surabaya,9/27/1975,47,O,L,15.5,60,120/80,Layak
+91,Bojonegoro,1/8/1972,50,AB,L,16.1,96,120/80,Layak
+92,Sampang,1/12/1970,52,B,L,12.2,65,120/80,Layak
+93,Bangkalan,8/17/1970,52,O,L,12.3,65,140/80,Layak
+94,Pasuruan,8/20/1980,42,O,L,12,71,120/80,Layak
+95,Banyuwangi,7/8/1973,49,O,L,12.4,80,140/80,Layak
+96,Bojonegoro,5/14/1978,44,B,L,15,87,120/80,Layak
+97,Surabaya,6/17/1971,51,A,L,15.2,76,140/80,Layak
+98,Bangkalan,2/9/1975,47,O,L,14.9,79,140/80,Layak
+99,Bangkalan,5/30/1987,35,A,P,12.4,70,110/80,Layak
+100,Sumenep,9/16/1966,56,B,L,12.5,65,120/80,Layak
+101,Probolinggo,8/15/2001,21,O,L,11,45,110/80,Tidak Layak
+102,Pasuruan,2/6/1994,28,B,L,11,67,100/80,Tidak Layak
+103,Banyuwangi,7/5/1972,50,O,L,10.8,65,90/80,Tidak Layak
+104,Jember,8/15/1974,48,B,P,10.7,48,110/80,Tidak Layak
+105,Jember,3/5/1998,24,B,P,10.9,69,80/80,Tidak Layak
+106,Lumajang,1/1/1996,26,A,L,10.4,70,90/80,Tidak Layak
+107,Surabaya,8/30/2000,22,O,L,11.3,80,100/80,Tidak Layak
+108,Gresik,2/12/2001,21,B,P,11.4,65,100/80,Tidak Layak
+109,Kota Batu,4/14/2002,20,O,L,10.5,46,110/80,Tidak Layak
+110,Kota Batu,8/5/1997,25,B,L,11.9,72,100/80,Tidak Layak
+111,Kota Blitar,4/14/2004,18,O,L,11.3,53,90/80,Tidak Layak
+112,Malang,10/10/2001,21,O,P,11,45,100/80,Tidak Layak
+113,Bojonegoro,9/12/2005,17,O,P,11.7,66,110/80,Tidak Layak
+114,Tuban,2/10/2003,19,O,P,10.8,62,100/80,Tidak Layak
+115,Bangkalan,5/23/1993,29,A,L,10.4,59,120/80,Tidak Layak
+116,Pamekasan,9/9/2004,18,O,L,11.2,83,110/80,Tidak Layak
+117,Ngawi,9/18/1990,32,O,L,10.7,76,100/80,Tidak Layak
+118,Kediri,6/12/1994,28,B,L,10.5,60,90/80,Tidak Layak
+119,Blitar,8/14/1993,29,O,L,10.7,75,110/80,Tidak Layak
+120,Tulungagung,12/12/1978,44,O,P,11,57,90/80,Tidak Layak
